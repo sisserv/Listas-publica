@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/1200px-Logo_Eurochannel.png" group-title="CINEMA Y SERIES ",EUROCHANNEL
-http://iptvactivador.online:25461/XTREAMTV1/M3XTREAMTV30MARZO/57
+http://iptvactivador.online:25461/m3ulista/m3ulista/57
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINEMA Y SERIES ",STUDIO UNIVERSAL
 http://iptvactivador.online:25461/XTREAMTV1/M3XTREAMTV30MARZO/58
 #EXTINF:-1 tvg-id="" tvg-name="TNT ESP" tvg-logo="https://ugc.kn3.net/i/760x/http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png" group-title="CINEMA Y SERIES ",TNT ESP
