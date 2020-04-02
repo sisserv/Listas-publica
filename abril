@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DJ" tvg-logo="https://3.bp.blogspot.com/-rdP62s9g7ng/XCpw6Lie_bI/AAAAAAAACOE/zFqDoYs1wPcs4BvmxdgWnxsEOue7S-UvwCLcBGAs/w640/UMAGTV.jpg" group-title="CINEMA Y SERIES ",EUROCHANNEL
+http://www.sonus.fm:1935/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UMAGTV" tvg-logo="https://3.bp.blogspot.com/-rdP62s9g7ng/XCpw6Lie_bI/AAAAAAAACOE/zFqDoYs1wPcs4BvmxdgWnxsEOue7S-UvwCLcBGAs/w640/UMAGTV.jpg" group-title="CINEMA Y SERIES ",EUROCHANNEL
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/1200px-Logo_Eurochannel.png" group-title="CINEMA Y SERIES ",EUROCHANNEL
