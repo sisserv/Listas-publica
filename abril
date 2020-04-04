@@ -109,130 +109,317 @@ http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/278
 http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/301
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO|  univision" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO|  univision
 http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/300
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="" group-title="MUSICA",TELEHIT
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/531
+#EXTINF:-1 tvg-id="" tvg-name=" BANDAMAX" tvg-logo="" group-title="MUSICA", BANDAMAX
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/532
+#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="MUSICA",VH1 CLASSICS
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/533
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="MUSICA",VH1
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/534
+#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL" tvg-logo="" group-title="POR PAISES ",CO: CARACOL
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/537
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg" group-title="MUSICA",MTV HITS
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/539
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/673px-MTV-Logo.svg.png" group-title="MUSICA",MTV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/540
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="data:image/png;base64,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" group-title="NOTICIAS",CNN INTERNACIONAL
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/544
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/546
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="ENTRETENIMIENTO",EL GOURMET
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/548
+#EXTINF:-1 tvg-id="" tvg-name=" MAS CHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ENTRETENIMIENTO", MAS CHIC
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/549
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://experience-lifetime.tbxnet.com/images/logo.png" group-title="ENTRETENIMIENTO",LIFETIME
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/550
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="HD 1080",UNICABLE
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/553
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | FOX SPORT 1 HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="DEPORTES",CHILE | FOX SPORT 1 HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/556
+#EXTINF:-1 tvg-id="" tvg-name="PE: Latina" tvg-logo="" group-title="POR PAISES ",PE: Latina
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/560
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR: GOL TV" tvg-logo="" group-title="DEPORTES",ECUADOR: GOL TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/566
+
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="" group-title="POR PAISES ",RCN NOVELAS
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5390
+#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM CHILE" tvg-logo="" group-title="DEPORTES",CDO PREMIUM CHILE
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5391
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LIGA" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg" group-title="DEPORTES",BEIN LIGA
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5392
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION " tvg-logo="" group-title="ENTRETENIMIENTO",GALAVISION 
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5396
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="ENTRETENIMIENTO",HOLA TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5401
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports" tvg-logo="" group-title="DEPORTES",CR | Tigo Sports
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5459
+#EXTINF:-1 tvg-id="" tvg-name="PAN| TV MAX DEPORTES PANAMA" tvg-logo="" group-title="DEPORTES",PAN| TV MAX DEPORTES PANAMA
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5462
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="NOTICIAS",DW
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5468
+#EXTINF:-1 tvg-id="" tvg-name="RCN FULL 1080" tvg-logo="" group-title="POR PAISES ",RCN FULL 1080
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5469
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="ESPAÑA",HOLLYWOOD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5494
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="" group-title="ESPAÑA",VIAJAR HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5498
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="ESPAÑA",#0 HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5499
+#EXTINF:-1 tvg-id="" tvg-name="#V" tvg-logo="" group-title="ESPAÑA",#V
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5510
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ESPAÑA",NATIONAL GEOGRAPHIC HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5517
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="ESPAÑA",CAZA Y PESCA
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5521
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="ESPAÑA",FOX HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5523
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="ESPAÑA",AXN WHITE HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5525
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="ESPAÑA",TNT
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5527
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CANNEL HD" tvg-logo="" group-title="ESPAÑA",DISNEY CANNEL HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5528
+#EXTINF:-1 tvg-id="" tvg-name="Acento TV" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="REPUBLICA DOMINICANA",Acento TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5531
+#EXTINF:-1 tvg-id="" tvg-name="Bonao TV Canal 12" tvg-logo="https://i.imgur.com/jbOcvhH.jpg" group-title="REPUBLICA DOMINICANA",Bonao TV Canal 12
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5532
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 RD" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" group-title="REPUBLICA DOMINICANA",Canal 4 RD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5533
+#EXTINF:-1 tvg-id="" tvg-name="Canal Amé 47" tvg-logo="https://i.imgur.com/qExHiPc.png" group-title="REPUBLICA DOMINICANA",Canal Amé 47
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5534
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Sol 65" tvg-logo="https://i.imgur.com/oGDCtby.png" group-title="REPUBLICA DOMINICANA",Canal del Sol 65
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5535
+#EXTINF:-1 tvg-id="" tvg-name="Carivision" tvg-logo="https://i.imgur.com/hufTLyq.png" group-title="REPUBLICA DOMINICANA",Carivision
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5536
+#EXTINF:-1 tvg-id="" tvg-name="Cinevision Canal 19" tvg-logo="https://i.imgur.com/1ydFeCk.png" group-title="REPUBLICA DOMINICANA",Cinevision Canal 19
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5537
+#EXTINF:-1 tvg-id="" tvg-name="Color Vision 9" tvg-logo="https://i.imgur.com/lJMPFjP.png" group-title="REPUBLICA DOMINICANA",Color Vision 9
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5538
+#EXTINF:-1 tvg-id="" tvg-name="Comunion TV" tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="REPUBLICA DOMINICANA",Comunion TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5539
+#EXTINF:-1 tvg-id="" tvg-name="Comunion TV" tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="REPUBLICA DOMINICANA",Comunion TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5540
+#EXTINF:-1 tvg-id="" tvg-name="DIGITAL VISION 63" tvg-logo="https://i.imgur.com/82on6V1.jpg" group-title="REPUBLICA DOMINICANA",DIGITAL VISION 63
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5541
+#EXTINF:-1 tvg-id="" tvg-name="ESTV" tvg-logo="https://i.imgur.com/4QUyVBQ.png" group-title="REPUBLICA DOMINICANA",ESTV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5542
+#EXTINF:-1 tvg-id="" tvg-name="Faro Vision" tvg-logo="https://i.imgur.com/9HnBtC9.png" group-title="REPUBLICA DOMINICANA",Faro Vision
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5543
+#EXTINF:-1 tvg-id="" tvg-name="Fuego TV" tvg-logo="https://i.imgur.com/sGzR0HV.png" group-title="REPUBLICA DOMINICANA",Fuego TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5544
+#EXTINF:-1 tvg-id="" tvg-name="Luna TV" tvg-logo="https://i.imgur.com/0fxX4oe.png" group-title="REPUBLICA DOMINICANA",Luna TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5545
+#EXTINF:-1 tvg-id="" tvg-name="Luna TV" tvg-logo="https://i.imgur.com/0fxX4oe.png" group-title="REPUBLICA DOMINICANA",Luna TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5546
+#EXTINF:-1 tvg-id="" tvg-name="Microvision 10" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="REPUBLICA DOMINICANA",Microvision 10
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5547
+#EXTINF:-1 tvg-id="" tvg-name="ONDA TV CANAL 10" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" group-title="REPUBLICA DOMINICANA",ONDA TV CANAL 10
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5548
+#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-logo="https://i.imgur.com/qOQ9HIX.png" group-title="REPUBLICA DOMINICANA",Orbit TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5549
+#EXTINF:-1 tvg-id="" tvg-name="Ready TV" tvg-logo="https://i.imgur.com/QT78nTj.png" group-title="REPUBLICA DOMINICANA",Ready TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5550
+#EXTINF:-1 tvg-id="" tvg-name="Romana TV Canal 42" tvg-logo="https://i.imgur.com/rv3jShy.jpg" group-title="REPUBLICA DOMINICANA",Romana TV Canal 42
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5551
+#EXTINF:-1 tvg-id="" tvg-name="Super TV 55 Santiago" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" group-title="REPUBLICA DOMINICANA",Super TV 55 Santiago
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5552
+#EXTINF:-1 tvg-id="" tvg-name="Teleantillas Canal 2" tvg-logo="https://i.imgur.com/LvbsKeG.jpg" group-title="REPUBLICA DOMINICANA",Teleantillas Canal 2
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5553
+#EXTINF:-1 tvg-id="" tvg-name="TeleBendicion" tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="REPUBLICA DOMINICANA",TeleBendicion
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5554
+#EXTINF:-1 tvg-id="" tvg-name="Telecanal 28" tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="REPUBLICA DOMINICANA",Telecanal 28
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5555
+#EXTINF:-1 tvg-id="" tvg-name="TELECENTRO 13" tvg-logo="https://i.imgur.com/kNOwvRN.jpg" group-title="REPUBLICA DOMINICANA",TELECENTRO 13
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5556
+#EXTINF:-1 tvg-id="" tvg-name="Telefuturo Canal 23" tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="REPUBLICA DOMINICANA",Telefuturo Canal 23
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5557
+#EXTINF:-1 tvg-id="" tvg-name="Telenord 12" tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="REPUBLICA DOMINICANA",Telenord 12
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5558
+#EXTINF:-1 tvg-id="" tvg-name="Telenord 12" tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="REPUBLICA DOMINICANA",Telenord 12
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5559
+#EXTINF:-1 tvg-id="" tvg-name="Teleradio America 45" tvg-logo="https://i.imgur.com/ZTIMq11.png" group-title="REPUBLICA DOMINICANA",Teleradio America 45
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5560
+#EXTINF:-1 tvg-id="" tvg-name="Telever Canal 12" tvg-logo="http://i.imgur.com/s2FJJDS.png" group-title="REPUBLICA DOMINICANA",Telever Canal 12
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5561
+#EXTINF:-1 tvg-id="" tvg-name="TV Montaña Canal 10" tvg-logo="https://i.imgur.com/2Sgckg3.jpg" group-title="REPUBLICA DOMINICANA",TV Montaña Canal 10
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5562
+#EXTINF:-1 tvg-id="" tvg-name="TV Plata Canal 3" tvg-logo="https://i.imgur.com/2PGP9eG.jpg" group-title="REPUBLICA DOMINICANA",TV Plata Canal 3
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5563
+#EXTINF:-1 tvg-id="" tvg-name="Xtremo Channel Canal 22" tvg-logo="https://i.imgur.com/uWwqzNu.png" group-title="REPUBLICA DOMINICANA",Xtremo Channel Canal 22
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5564
+#EXTINF:-1 tvg-id="" tvg-name="YUNA VISION 10" tvg-logo="https://i.imgur.com/VtsDkKX.jpg" group-title="REPUBLICA DOMINICANA",YUNA VISION 10
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5565
+#EXTINF:-1 tvg-id="" tvg-name="WIPR" tvg-logo="https://www.wipr.pr/wp-content/uploads/2018/11/logo-big-blue.png" group-title="POR PAISES ",WIPR
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5566
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPA*" tvg-logo="" group-title="DEPORTES",BEIN SPA*
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5572
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 " tvg-logo="" group-title="ENTRETENIMIENTO",TELEMUNDO 51 
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7319
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 HD 1080" tvg-logo="" group-title="HD 1080",CANAL 5 HD 1080
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7320
+#EXTINF:-1 tvg-id="" tvg-name="CRIME & INVESTIGATION 720" tvg-logo="" group-title="HD 720",CRIME & INVESTIGATION 720
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7321
+#EXTINF:-1 tvg-id="" tvg-name="A&E 1080" tvg-logo="" group-title="HD 1080",A&E 1080
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7322
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO HD" tvg-logo="" group-title="HD 1080",AZTECA UNO HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7324
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK 720" tvg-logo="https://discovery-latam-prod.imgix.net/files/2018-12/FoodNetwork_LOGO_Blanco_0.png" group-title="HD 720",FOOD NETWORK 720
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7325
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://158.69.24.110/posters/1502835956330.jpg" group-title="HD 720",HBO 2
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7329
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS HD" tvg-logo="http://158.69.24.110/posters/1527119836481.jpg" group-title="HD 1080",LAS ESTRELLAS HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7337
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="http://158.69.24.110/posters/1517080529348.jpg" group-title="HD 720",CARACOL
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7345
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" tvg-logo="http://158.69.24.110/posters/1527117870165.jpg" group-title="HD 1080",FOX MOVIES HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7351
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="http://158.69.24.110/posters/1502828719391.jpg" group-title="HD 720",ESPN DEPORTES
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7352
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://158.69.24.110/posters/1502753127251.jpg" group-title="HD 720",DISCOVERY CHANNEL
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7358
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN HD" tvg-logo="http://158.69.24.110/posters/1527118758166.jpg" group-title="HD 1080",GOLDEN HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7363
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="http://158.69.24.110/posters/1502829658462.jpg" group-title="HD 720",GOLDEN EDGE
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7364
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://158.69.24.110/posters/1527118125562.jpg" group-title="HD 720",FOX SPORTS 2 HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7369
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="http://158.69.24.110/posters/1527116604244.jpg" group-title="HD 1080",FOOD NETWORK HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7370
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS LOS ANGELES" tvg-logo="http://158.69.24.110/posters/1572379394125.jpg" group-title="HD 720",UNIMAS LOS ANGELES
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7379
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CHICAGO" tvg-logo="http://158.69.24.110/posters/1572378000183.jpg" group-title="HD 720",UNIVISION CHICAGO
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7385
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS" tvg-logo="http://158.69.24.110/posters/1570113835494.jpg" group-title="HD 720",UNIVISION DALLAS
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7386
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LOS ANGELES" tvg-logo="http://158.69.24.110/posters/" group-title="HD 720",TELEMUNDO LOS ANGELES
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7392
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://158.69.24.110/posters/1502835434304.jpg" group-title="HD 720",ANIMAL PLANET
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7397
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://158.69.24.110/posters/1502835710230.jpg" group-title="HD 720",DISCOVERY CHANNEL
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7398
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://158.69.24.110/posters/1502835723367.jpg" group-title="HD 720",DISCOVERY SCIENCE
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7400
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="http://158.69.24.110/posters/1502836026522.jpg" group-title="HD 720",HISTORY CHANNEL
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7401
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="http://158.69.24.110/posters/1502836221546.jpg" group-title="HD 720",NATGEO
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7402
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="http://158.69.24.110/posters/1504564522345.jpg" group-title="HD 720",NATGEO WILD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7404
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES -Fight Time" tvg-logo="" group-title="DEPORTES",DEPORTES -Fight Time
+#EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="" group-title="INGLISH",FS1
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7651
+#EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-logo="" group-title="INGLISH",FS2
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7652
+#EXTINF:-1 tvg-id="" tvg-name="YES NETWORK" tvg-logo="" group-title="INGLISH",YES NETWORK
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7653
 
 
 
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/298
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" tvg-logo="" group-title="24/7",24/7 Power Rangers
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/303
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="" group-title="24/7",24/7 Robotech
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/304
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hlEHPUb1L._SL1500_.jpg" group-title="24/7",24/7 Sailor Moon
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/306
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/307
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville" tvg-logo="" group-title="24/7",24/7 Smallville
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/308
-#EXTINF:-1 tvg-id="" tvg-name="24/7  South Park" tvg-logo="" group-title="24/7",24/7  South Park
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/309
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man" tvg-logo="" group-title="24/7",24/7 Spider-Man
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/310
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stranger_Things_logo.png/250px-Stranger_Things_logo.png" group-title="24/7",24/7 Stranger Things
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/311
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones" tvg-logo="" group-title="24/7",24/7 Super Campeones
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/312
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="https://f0.pngfuel.com/png/961/734/terror-logo-png-clip-art-thumbnail.png" group-title="24/7",24/7 Peliculas de terror
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/313
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/314
-#EXTINF:-1 tvg-id="" tvg-name="24/7  The Walking Dead" tvg-logo="" group-title="24/7",24/7  The Walking Dead
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/315
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Barney y sus amigos" tvg-logo="" group-title="24/7",24/7 Barney y sus amigos
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/316
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/317
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Caillou" tvg-logo="" group-title="24/7",24/7  Caillou
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/318
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/319
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/320
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends" tvg-logo="" group-title="24/7",24/7 Happy Tree Friends
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/321
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Risa en Vacaciones" tvg-logo="" group-title="24/7",24/7 La Risa en Vacaciones
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/322
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LazyTown" tvg-logo="" group-title="24/7",24/7 LazyTown
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/323
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El club de medianoche" tvg-logo="" group-title="24/7",24/7 El club de medianoche
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/324
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/325
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa PIG LA CERDITA" tvg-logo="" group-title="24/7",24/7 Peppa PIG LA CERDITA
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/326
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La hora pico" tvg-logo="" group-title="24/7",24/7 La hora pico
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/327
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HÉROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÉROES EN PIJAMAS
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/328
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 2" tvg-logo="" group-title="24/7",24/7 Shark Tank México TEP 2
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/329
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank México TEP 1
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/330
-#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="" group-title="24/7",24/7 XMEN ANIME
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/331
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" tvg-logo="" group-title="24/7",24/7 Breaking Bad
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/332
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/333
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/334
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="" group-title="24/7",24/7 El Chavo del 8
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/335
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/336
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El señor de los cielos" tvg-logo="" group-title="24/7",24/7 El señor de los cielos
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/337
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE Agallas, el perro cobarde" tvg-logo="" group-title="24/7",24/7  CORAJE Agallas, el perro cobarde
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/338
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: Miami" tvg-logo="" group-title="24/7",24/7 CSI: Miami
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/339
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="" group-title="24/7",24/7  CUENTRO GREEM
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/340
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/341
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/342
-#EXTINF:-1 tvg-id="" tvg-name="24/7 shera" tvg-logo="" group-title="24/7",24/7 shera
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/343
-#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/344
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball 1984" tvg-logo="" group-title="24/7",24/7  Dragon Ball 1984
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/345
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT 1996" tvg-logo="" group-title="24/7",24/7 Dragon Ball GT 1996
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/346
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z 1989" tvg-logo="" group-title="24/7",24/7 Dragon Ball Z 1989
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/347
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/348
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Escobar: el patrón del mal" tvg-logo="" group-title="24/7",24/7 Escobar: el patrón del mal
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/349
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS; ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS; ESTRENOS 2018
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/350
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama 1999" tvg-logo="" group-title="24/7",24/7 Futurama 1999
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/351
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos" tvg-logo="" group-title="24/7",24/7 Juego de tronos
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/352
-#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/353
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/354
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="" group-title="24/7",24/7 Los locos Addams
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/355
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster 1964" tvg-logo="" group-title="24/7",24/7 La Familia Monster 1964
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/356
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Luis Miguel, la serie 2018" tvg-logo="" group-title="24/7",24/7 Luis Miguel, la serie 2018
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/357
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/358
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los años maravillosos 1988" tvg-logo="" group-title="24/7",24/7 Los años maravillosos 1988
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/359
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/360
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/361
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro 1995" tvg-logo="" group-title="24/7",24/7 Pinky y Cerebro 1995
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/362
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokémon" tvg-logo="" group-title="24/7",24/7 Pokémon
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL HD" tvg-logo="" group-title="INGLISH",NFL HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8022
+#EXTINF:-1 tvg-id="" tvg-name="NHL HD" tvg-logo="" group-title="INGLISH",NHL HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8023
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="" group-title="INGLISH",NBA TV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8024
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV 2" tvg-logo="" group-title="INGLISH",NBA TV 2
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8025
+#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="" group-title="INGLISH",MLB
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8026
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="" group-title="INGLISH",DISCOVERY ID
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8027
+#EXTINF:-1 tvg-id="" tvg-name="TNT*" tvg-logo="" group-title="INGLISH",TNT*
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8028
+#EXTINF:-1 tvg-id="" tvg-name="HBO1" tvg-logo="" group-title="INGLISH",HBO1
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8029
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="ESPAÑA",TCM HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8030
+#EXTINF:-1 tvg-id="" tvg-name="DOC&ROLL HD" tvg-logo="" group-title="ESPAÑA",DOC&ROLL HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8031
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="ESPAÑA",A&E
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8032
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 6" tvg-logo="" group-title="ESPAÑA",TAQ 6
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8033
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 5" tvg-logo="" group-title="ESPAÑA",TAQ 5
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8034
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 4" tvg-logo="" group-title="ESPAÑA",TAQ 4
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8035
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 3" tvg-logo="" group-title="ESPAÑA",TAQ 3
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8036
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 2" tvg-logo="" group-title="ESPAÑA",TAQ 2
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8037
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 1" tvg-logo="" group-title="ESPAÑA",TAQ 1
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8038
+#EXTINF:-1 tvg-id="" tvg-name="ESTRENOS HD" tvg-logo="" group-title="ESPAÑA",ESTRENOS HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8039
+#EXTINF:-1 tvg-id="" tvg-name="DRAMA" tvg-logo="" group-title="ESPAÑA",DRAMA
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8040
+#EXTINF:-1 tvg-id="" tvg-name="ACCION HD" tvg-logo="" group-title="ESPAÑA",ACCION HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8041
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIA HD" tvg-logo="" group-title="ESPAÑA",COMEDIA HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8042
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="ESPAÑA",LIGA CAMPEONES
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8043
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="ESPAÑA",CALLE 13 HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8044
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HD" tvg-logo="" group-title="ESPAÑA",LA LIGA TV HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8045
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA HD" tvg-logo="" group-title="ESPAÑA",BEIN LA LIGA HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8046
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV" tvg-logo="" group-title="ESPAÑA",GOLTV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8047
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD" tvg-logo="" group-title="ESPAÑA",DEPORTES HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8048
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD" tvg-logo="" group-title="ESPAÑA",BEIN SPORT HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8049
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP" tvg-logo="" group-title="ESPAÑA",MOTOGP
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8050
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1" tvg-logo="" group-title="ESPAÑA",FORMULA 1
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8051
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="ESPAÑA",TOROS HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8052
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="" group-title="ESPAÑA",GOLF HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8053
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT HD" tvg-logo="" group-title="ESPAÑA",EUROSPORT HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8054
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="ESPAÑA",NAT GEO WILD HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8055
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="ESPAÑA",DMAX
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8056
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="" group-title="ESPAÑA",HISTORIA HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8057
+#EXTINF:-1 tvg-id="" tvg-name="SERIES HD" tvg-logo="" group-title="ESPAÑA",SERIES HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8058
+#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="ESPAÑA",COSMO HD
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8059
+#EXTINF:-1 tvg-id="" tvg-name="COCINA" tvg-logo="" group-title="ESPAÑA",COCINA
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8060
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="ESPAÑA",MTV
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8061
+
+
+
+
+
+
+
+
+
+
 http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/363
 #EXTINF:-1 tvg-id="" tvg-name="DEOORTES | DIRECTV SPORTS 1" tvg-logo="" group-title="DEPORTES",DEOORTES | DIRECTV SPORTS 1
 http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/364
@@ -356,6 +543,18 @@ http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/500
 http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/501
 #EXTINF:-1 tvg-id="XEWLasEstrellasDF.mx" tvg-name="MEXICO CANAL DE LAS ESTRELLA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="MEXICO",MEXICO CANAL DE LAS ESTRELLA
 http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/502
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji: Bienvenidos a la jungla - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg" group-title="PELICULAS 2017",Jumanji: Bienvenidos a la jungla - 2017
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/505.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guadalupe Reyes - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTzUT341y6ZxN8Ftu76WJ0R4iGY.jpg" group-title="PELICULAS  2019",Guadalupe Reyes - 2019
@@ -394,38 +593,7 @@ http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/528.mp4
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/529.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Annabelle vuelve a casa - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gntTDFXAbMhhdLn1Jhv9TBVnKiC.jpg" group-title="PELICULAS  2019",Annabelle vuelve a casa - 2019
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="" group-title="MUSICA",TELEHIT
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/531
-#EXTINF:-1 tvg-id="" tvg-name=" BANDAMAX" tvg-logo="" group-title="MUSICA", BANDAMAX
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/532
-#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="MUSICA",VH1 CLASSICS
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/533
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="MUSICA",VH1
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/534
-#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL" tvg-logo="" group-title="POR PAISES ",CO: CARACOL
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/537
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg" group-title="MUSICA",MTV HITS
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/539
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/673px-MTV-Logo.svg.png" group-title="MUSICA",MTV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/540
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="data:image/png;base64,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" group-title="NOTICIAS",CNN INTERNACIONAL
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/544
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/546
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="ENTRETENIMIENTO",EL GOURMET
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/548
-#EXTINF:-1 tvg-id="" tvg-name=" MAS CHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ENTRETENIMIENTO", MAS CHIC
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/549
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://experience-lifetime.tbxnet.com/images/logo.png" group-title="ENTRETENIMIENTO",LIFETIME
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/550
-#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="HD 1080",UNICABLE
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/553
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | FOX SPORT 1 HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="DEPORTES",CHILE | FOX SPORT 1 HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/556
-#EXTINF:-1 tvg-id="" tvg-name="PE: Latina" tvg-logo="" group-title="POR PAISES ",PE: Latina
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/560
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR: GOL TV" tvg-logo="" group-title="DEPORTES",ECUADOR: GOL TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/566
+
 #EXTINF:-1 tvg-id="" tvg-name="Jumanji: siguiente nivel - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7TQltbhyV4aYQph7HL62jCy2pD.jpg" group-title="PELICULAS  2019",Jumanji: siguiente nivel - 2019
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/570.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Men in Black: International - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewPz4CtrgyQZaCRpubtG5IedIkp.jpg" group-title="PELICULAS  2019",Men in Black: International - 2019
@@ -928,118 +1096,7 @@ http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/5171.mp4
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/5172.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Las aventuras del Doctor Dolittle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg" group-title="PELICULAS 2020",Las aventuras del Doctor Dolittle
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/5173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="" group-title="POR PAISES ",RCN NOVELAS
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5390
-#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM CHILE" tvg-logo="" group-title="DEPORTES",CDO PREMIUM CHILE
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5391
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LIGA" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg" group-title="DEPORTES",BEIN LIGA
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5392
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION " tvg-logo="" group-title="ENTRETENIMIENTO",GALAVISION 
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5396
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="ENTRETENIMIENTO",HOLA TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5401
-#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports" tvg-logo="" group-title="DEPORTES",CR | Tigo Sports
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5459
-#EXTINF:-1 tvg-id="" tvg-name="PAN| TV MAX DEPORTES PANAMA" tvg-logo="" group-title="DEPORTES",PAN| TV MAX DEPORTES PANAMA
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5462
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="NOTICIAS",DW
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5468
-#EXTINF:-1 tvg-id="" tvg-name="RCN FULL 1080" tvg-logo="" group-title="POR PAISES ",RCN FULL 1080
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5469
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="ESPAÑA",HOLLYWOOD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5494
-#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="" group-title="ESPAÑA",VIAJAR HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5498
-#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="ESPAÑA",#0 HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5499
-#EXTINF:-1 tvg-id="" tvg-name="#V" tvg-logo="" group-title="ESPAÑA",#V
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5510
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ESPAÑA",NATIONAL GEOGRAPHIC HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5517
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="ESPAÑA",CAZA Y PESCA
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5521
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="ESPAÑA",FOX HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5523
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="ESPAÑA",AXN WHITE HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5525
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="ESPAÑA",TNT
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5527
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CANNEL HD" tvg-logo="" group-title="ESPAÑA",DISNEY CANNEL HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5528
-#EXTINF:-1 tvg-id="" tvg-name="Acento TV" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="REPUBLICA DOMINICANA",Acento TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5531
-#EXTINF:-1 tvg-id="" tvg-name="Bonao TV Canal 12" tvg-logo="https://i.imgur.com/jbOcvhH.jpg" group-title="REPUBLICA DOMINICANA",Bonao TV Canal 12
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5532
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 RD" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" group-title="REPUBLICA DOMINICANA",Canal 4 RD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5533
-#EXTINF:-1 tvg-id="" tvg-name="Canal Amé 47" tvg-logo="https://i.imgur.com/qExHiPc.png" group-title="REPUBLICA DOMINICANA",Canal Amé 47
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5534
-#EXTINF:-1 tvg-id="" tvg-name="Canal del Sol 65" tvg-logo="https://i.imgur.com/oGDCtby.png" group-title="REPUBLICA DOMINICANA",Canal del Sol 65
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5535
-#EXTINF:-1 tvg-id="" tvg-name="Carivision" tvg-logo="https://i.imgur.com/hufTLyq.png" group-title="REPUBLICA DOMINICANA",Carivision
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5536
-#EXTINF:-1 tvg-id="" tvg-name="Cinevision Canal 19" tvg-logo="https://i.imgur.com/1ydFeCk.png" group-title="REPUBLICA DOMINICANA",Cinevision Canal 19
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5537
-#EXTINF:-1 tvg-id="" tvg-name="Color Vision 9" tvg-logo="https://i.imgur.com/lJMPFjP.png" group-title="REPUBLICA DOMINICANA",Color Vision 9
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5538
-#EXTINF:-1 tvg-id="" tvg-name="Comunion TV" tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="REPUBLICA DOMINICANA",Comunion TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5539
-#EXTINF:-1 tvg-id="" tvg-name="Comunion TV" tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="REPUBLICA DOMINICANA",Comunion TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5540
-#EXTINF:-1 tvg-id="" tvg-name="DIGITAL VISION 63" tvg-logo="https://i.imgur.com/82on6V1.jpg" group-title="REPUBLICA DOMINICANA",DIGITAL VISION 63
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5541
-#EXTINF:-1 tvg-id="" tvg-name="ESTV" tvg-logo="https://i.imgur.com/4QUyVBQ.png" group-title="REPUBLICA DOMINICANA",ESTV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5542
-#EXTINF:-1 tvg-id="" tvg-name="Faro Vision" tvg-logo="https://i.imgur.com/9HnBtC9.png" group-title="REPUBLICA DOMINICANA",Faro Vision
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5543
-#EXTINF:-1 tvg-id="" tvg-name="Fuego TV" tvg-logo="https://i.imgur.com/sGzR0HV.png" group-title="REPUBLICA DOMINICANA",Fuego TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5544
-#EXTINF:-1 tvg-id="" tvg-name="Luna TV" tvg-logo="https://i.imgur.com/0fxX4oe.png" group-title="REPUBLICA DOMINICANA",Luna TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5545
-#EXTINF:-1 tvg-id="" tvg-name="Luna TV" tvg-logo="https://i.imgur.com/0fxX4oe.png" group-title="REPUBLICA DOMINICANA",Luna TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5546
-#EXTINF:-1 tvg-id="" tvg-name="Microvision 10" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="REPUBLICA DOMINICANA",Microvision 10
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5547
-#EXTINF:-1 tvg-id="" tvg-name="ONDA TV CANAL 10" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" group-title="REPUBLICA DOMINICANA",ONDA TV CANAL 10
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5548
-#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-logo="https://i.imgur.com/qOQ9HIX.png" group-title="REPUBLICA DOMINICANA",Orbit TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5549
-#EXTINF:-1 tvg-id="" tvg-name="Ready TV" tvg-logo="https://i.imgur.com/QT78nTj.png" group-title="REPUBLICA DOMINICANA",Ready TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5550
-#EXTINF:-1 tvg-id="" tvg-name="Romana TV Canal 42" tvg-logo="https://i.imgur.com/rv3jShy.jpg" group-title="REPUBLICA DOMINICANA",Romana TV Canal 42
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5551
-#EXTINF:-1 tvg-id="" tvg-name="Super TV 55 Santiago" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" group-title="REPUBLICA DOMINICANA",Super TV 55 Santiago
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5552
-#EXTINF:-1 tvg-id="" tvg-name="Teleantillas Canal 2" tvg-logo="https://i.imgur.com/LvbsKeG.jpg" group-title="REPUBLICA DOMINICANA",Teleantillas Canal 2
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5553
-#EXTINF:-1 tvg-id="" tvg-name="TeleBendicion" tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="REPUBLICA DOMINICANA",TeleBendicion
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5554
-#EXTINF:-1 tvg-id="" tvg-name="Telecanal 28" tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="REPUBLICA DOMINICANA",Telecanal 28
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5555
-#EXTINF:-1 tvg-id="" tvg-name="TELECENTRO 13" tvg-logo="https://i.imgur.com/kNOwvRN.jpg" group-title="REPUBLICA DOMINICANA",TELECENTRO 13
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5556
-#EXTINF:-1 tvg-id="" tvg-name="Telefuturo Canal 23" tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="REPUBLICA DOMINICANA",Telefuturo Canal 23
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5557
-#EXTINF:-1 tvg-id="" tvg-name="Telenord 12" tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="REPUBLICA DOMINICANA",Telenord 12
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5558
-#EXTINF:-1 tvg-id="" tvg-name="Telenord 12" tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="REPUBLICA DOMINICANA",Telenord 12
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5559
-#EXTINF:-1 tvg-id="" tvg-name="Teleradio America 45" tvg-logo="https://i.imgur.com/ZTIMq11.png" group-title="REPUBLICA DOMINICANA",Teleradio America 45
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5560
-#EXTINF:-1 tvg-id="" tvg-name="Telever Canal 12" tvg-logo="http://i.imgur.com/s2FJJDS.png" group-title="REPUBLICA DOMINICANA",Telever Canal 12
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5561
-#EXTINF:-1 tvg-id="" tvg-name="TV Montaña Canal 10" tvg-logo="https://i.imgur.com/2Sgckg3.jpg" group-title="REPUBLICA DOMINICANA",TV Montaña Canal 10
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5562
-#EXTINF:-1 tvg-id="" tvg-name="TV Plata Canal 3" tvg-logo="https://i.imgur.com/2PGP9eG.jpg" group-title="REPUBLICA DOMINICANA",TV Plata Canal 3
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5563
-#EXTINF:-1 tvg-id="" tvg-name="Xtremo Channel Canal 22" tvg-logo="https://i.imgur.com/uWwqzNu.png" group-title="REPUBLICA DOMINICANA",Xtremo Channel Canal 22
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5564
-#EXTINF:-1 tvg-id="" tvg-name="YUNA VISION 10" tvg-logo="https://i.imgur.com/VtsDkKX.jpg" group-title="REPUBLICA DOMINICANA",YUNA VISION 10
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5565
-#EXTINF:-1 tvg-id="" tvg-name="WIPR" tvg-logo="https://www.wipr.pr/wp-content/uploads/2018/11/logo-big-blue.png" group-title="POR PAISES ",WIPR
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5566
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPA*" tvg-logo="" group-title="DEPORTES",BEIN SPA*
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/5572
+
 #EXTINF:-1 tvg-id="" tvg-name="Bloodshot - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="PELICULAS 2020",Bloodshot - 2020
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/5591.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La marca del demonio - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RcauukLfwBtB7bAKzFhxAnlSKb.jpg" group-title="PELICULAS 2020",La marca del demonio - 2020
@@ -2110,58 +2167,18 @@ http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/7316.mp4
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/7317.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Abominable - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="PELICULAS  2019",Abominable - 2019
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/7318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 " tvg-logo="" group-title="ENTRETENIMIENTO",TELEMUNDO 51 
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7319
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 HD 1080" tvg-logo="" group-title="HD 1080",CANAL 5 HD 1080
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7320
-#EXTINF:-1 tvg-id="" tvg-name="CRIME & INVESTIGATION 720" tvg-logo="" group-title="HD 720",CRIME & INVESTIGATION 720
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7321
-#EXTINF:-1 tvg-id="" tvg-name="A&E 1080" tvg-logo="" group-title="HD 1080",A&E 1080
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7322
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO HD" tvg-logo="" group-title="HD 1080",AZTECA UNO HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7324
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK 720" tvg-logo="https://discovery-latam-prod.imgix.net/files/2018-12/FoodNetwork_LOGO_Blanco_0.png" group-title="HD 720",FOOD NETWORK 720
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7325
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://158.69.24.110/posters/1502835956330.jpg" group-title="HD 720",HBO 2
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7329
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS HD" tvg-logo="http://158.69.24.110/posters/1527119836481.jpg" group-title="HD 1080",LAS ESTRELLAS HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7337
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="http://158.69.24.110/posters/1517080529348.jpg" group-title="HD 720",CARACOL
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7345
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" tvg-logo="http://158.69.24.110/posters/1527117870165.jpg" group-title="HD 1080",FOX MOVIES HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7351
-#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="http://158.69.24.110/posters/1502828719391.jpg" group-title="HD 720",ESPN DEPORTES
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7352
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://158.69.24.110/posters/1502753127251.jpg" group-title="HD 720",DISCOVERY CHANNEL
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7358
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN HD" tvg-logo="http://158.69.24.110/posters/1527118758166.jpg" group-title="HD 1080",GOLDEN HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7363
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="http://158.69.24.110/posters/1502829658462.jpg" group-title="HD 720",GOLDEN EDGE
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7364
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://158.69.24.110/posters/1527118125562.jpg" group-title="HD 720",FOX SPORTS 2 HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7369
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="http://158.69.24.110/posters/1527116604244.jpg" group-title="HD 1080",FOOD NETWORK HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7370
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS LOS ANGELES" tvg-logo="http://158.69.24.110/posters/1572379394125.jpg" group-title="HD 720",UNIMAS LOS ANGELES
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7379
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CHICAGO" tvg-logo="http://158.69.24.110/posters/1572378000183.jpg" group-title="HD 720",UNIVISION CHICAGO
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7385
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS" tvg-logo="http://158.69.24.110/posters/1570113835494.jpg" group-title="HD 720",UNIVISION DALLAS
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7386
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LOS ANGELES" tvg-logo="http://158.69.24.110/posters/" group-title="HD 720",TELEMUNDO LOS ANGELES
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7392
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://158.69.24.110/posters/1502835434304.jpg" group-title="HD 720",ANIMAL PLANET
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7397
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://158.69.24.110/posters/1502835710230.jpg" group-title="HD 720",DISCOVERY CHANNEL
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7398
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://158.69.24.110/posters/1502835723367.jpg" group-title="HD 720",DISCOVERY SCIENCE
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7400
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="http://158.69.24.110/posters/1502836026522.jpg" group-title="HD 720",HISTORY CHANNEL
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7401
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="http://158.69.24.110/posters/1502836221546.jpg" group-title="HD 720",NATGEO
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7402
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="http://158.69.24.110/posters/1504564522345.jpg" group-title="HD 720",NATGEO WILD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7404
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ABOMINABLE" tvg-logo="http://158.69.24.110/posters/1504564522345.jpg" group-title="PELICULAS  2019",ABOMINABLE
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/7405.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Big Shot - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNUFt1aZLjhWb6YKo30iIKqA8Ve.jpg" group-title="PELICULAS  2019",The Big Shot - 2019
@@ -2643,12 +2660,13 @@ http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/7647.mp4
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/7648.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tiempo Límite - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jPYCPm2u8ft2mvd4N44tNINY2C.jpg" group-title="PELICULAS 2016",Tiempo Límite - 2016
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/7649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="" group-title="INGLISH",FS1
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7651
-#EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-logo="" group-title="INGLISH",FS2
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7652
-#EXTINF:-1 tvg-id="" tvg-name="YES NETWORK" tvg-logo="" group-title="INGLISH",YES NETWORK
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/7653
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SING STREET" tvg-logo="" group-title="DUAL AUDIO",SING STREET
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/7654.mp4
 #EXTINF:-1 tvg-id="" tvg-name="HEROES EN EL INFIERNO" tvg-logo="" group-title="DUAL AUDIO",HEROES EN EL INFIERNO
@@ -3385,86 +3403,7 @@ http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/8019.mkv
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/8020.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Asalto al convoy - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGQG4gGBTA5SWcuE4Uf3ydVqBMM.jpg" group-title="DUAL AUDIO",Asalto al convoy - 2016
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/8021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NFL HD" tvg-logo="" group-title="INGLISH",NFL HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8022
-#EXTINF:-1 tvg-id="" tvg-name="NHL HD" tvg-logo="" group-title="INGLISH",NHL HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8023
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="" group-title="INGLISH",NBA TV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8024
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV 2" tvg-logo="" group-title="INGLISH",NBA TV 2
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8025
-#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="" group-title="INGLISH",MLB
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8026
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="" group-title="INGLISH",DISCOVERY ID
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8027
-#EXTINF:-1 tvg-id="" tvg-name="TNT*" tvg-logo="" group-title="INGLISH",TNT*
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8028
-#EXTINF:-1 tvg-id="" tvg-name="HBO1" tvg-logo="" group-title="INGLISH",HBO1
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8029
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="ESPAÑA",TCM HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8030
-#EXTINF:-1 tvg-id="" tvg-name="DOC&ROLL HD" tvg-logo="" group-title="ESPAÑA",DOC&ROLL HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8031
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="ESPAÑA",A&E
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8032
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 6" tvg-logo="" group-title="ESPAÑA",TAQ 6
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8033
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 5" tvg-logo="" group-title="ESPAÑA",TAQ 5
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8034
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 4" tvg-logo="" group-title="ESPAÑA",TAQ 4
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8035
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 3" tvg-logo="" group-title="ESPAÑA",TAQ 3
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8036
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 2" tvg-logo="" group-title="ESPAÑA",TAQ 2
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8037
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 1" tvg-logo="" group-title="ESPAÑA",TAQ 1
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8038
-#EXTINF:-1 tvg-id="" tvg-name="ESTRENOS HD" tvg-logo="" group-title="ESPAÑA",ESTRENOS HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8039
-#EXTINF:-1 tvg-id="" tvg-name="DRAMA" tvg-logo="" group-title="ESPAÑA",DRAMA
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8040
-#EXTINF:-1 tvg-id="" tvg-name="ACCION HD" tvg-logo="" group-title="ESPAÑA",ACCION HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8041
-#EXTINF:-1 tvg-id="" tvg-name="COMEDIA HD" tvg-logo="" group-title="ESPAÑA",COMEDIA HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8042
-#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="ESPAÑA",LIGA CAMPEONES
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8043
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="ESPAÑA",CALLE 13 HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8044
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HD" tvg-logo="" group-title="ESPAÑA",LA LIGA TV HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8045
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA HD" tvg-logo="" group-title="ESPAÑA",BEIN LA LIGA HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8046
-#EXTINF:-1 tvg-id="" tvg-name="GOLTV" tvg-logo="" group-title="ESPAÑA",GOLTV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8047
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD" tvg-logo="" group-title="ESPAÑA",DEPORTES HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8048
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD" tvg-logo="" group-title="ESPAÑA",BEIN SPORT HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8049
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP" tvg-logo="" group-title="ESPAÑA",MOTOGP
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8050
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1" tvg-logo="" group-title="ESPAÑA",FORMULA 1
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8051
-#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="ESPAÑA",TOROS HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8052
-#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="" group-title="ESPAÑA",GOLF HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8053
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT HD" tvg-logo="" group-title="ESPAÑA",EUROSPORT HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8054
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="ESPAÑA",NAT GEO WILD HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8055
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="ESPAÑA",DMAX
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8056
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="" group-title="ESPAÑA",HISTORIA HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8057
-#EXTINF:-1 tvg-id="" tvg-name="SERIES HD" tvg-logo="" group-title="ESPAÑA",SERIES HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8058
-#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="ESPAÑA",COSMO HD
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8059
-#EXTINF:-1 tvg-id="" tvg-name="COCINA" tvg-logo="" group-title="ESPAÑA",COCINA
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8060
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="ESPAÑA",MTV
-http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/8061
+
 #EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4ZZ5pbzX93OawxWvnZ6LkSvHxhF.jpg" group-title="SERIES",Luis Miguel: La Serie S01 E01
 http://iptvactivador.online:25461/series/listaiptvzxtream/xtreamtv/623.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Luis Miguel: La Serie S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/wnzjHQQ262mhiK2f5NyQZsxeV55.jpg" group-title="SERIES",Luis Miguel: La Serie S01 E02
@@ -3708,3 +3647,148 @@ http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/77
 
 #EXTINF:-1 tvg-id="" tvg-name="10 Minutos Menos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2AvUEMUZHvlDPpSi5YOjNz0ox6.jpg" group-title="PELICULAS  2019",10 Minutos Menos - 2019
 http://iptvactivador.online:25461/movie/listaiptvzxtream/xtreamtv/7601.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/298
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" tvg-logo="" group-title="24/7",24/7 Power Rangers
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/303
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="" group-title="24/7",24/7 Robotech
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/304
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hlEHPUb1L._SL1500_.jpg" group-title="24/7",24/7 Sailor Moon
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/306
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/307
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville" tvg-logo="" group-title="24/7",24/7 Smallville
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/308
+#EXTINF:-1 tvg-id="" tvg-name="24/7  South Park" tvg-logo="" group-title="24/7",24/7  South Park
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/309
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man" tvg-logo="" group-title="24/7",24/7 Spider-Man
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/310
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stranger_Things_logo.png/250px-Stranger_Things_logo.png" group-title="24/7",24/7 Stranger Things
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/311
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones" tvg-logo="" group-title="24/7",24/7 Super Campeones
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/312
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="https://f0.pngfuel.com/png/961/734/terror-logo-png-clip-art-thumbnail.png" group-title="24/7",24/7 Peliculas de terror
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/313
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/314
+#EXTINF:-1 tvg-id="" tvg-name="24/7  The Walking Dead" tvg-logo="" group-title="24/7",24/7  The Walking Dead
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/315
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Barney y sus amigos" tvg-logo="" group-title="24/7",24/7 Barney y sus amigos
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/316
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/317
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Caillou" tvg-logo="" group-title="24/7",24/7  Caillou
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/318
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/319
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/320
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends" tvg-logo="" group-title="24/7",24/7 Happy Tree Friends
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/321
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Risa en Vacaciones" tvg-logo="" group-title="24/7",24/7 La Risa en Vacaciones
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/322
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LazyTown" tvg-logo="" group-title="24/7",24/7 LazyTown
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/323
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El club de medianoche" tvg-logo="" group-title="24/7",24/7 El club de medianoche
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/324
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/325
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa PIG LA CERDITA" tvg-logo="" group-title="24/7",24/7 Peppa PIG LA CERDITA
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/326
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La hora pico" tvg-logo="" group-title="24/7",24/7 La hora pico
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/327
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÉROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÉROES EN PIJAMAS
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/328
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 2" tvg-logo="" group-title="24/7",24/7 Shark Tank México TEP 2
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/329
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank México TEP 1
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/330
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="" group-title="24/7",24/7 XMEN ANIME
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/331
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" tvg-logo="" group-title="24/7",24/7 Breaking Bad
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/332
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/333
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/334
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="" group-title="24/7",24/7 El Chavo del 8
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/335
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/336
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El señor de los cielos" tvg-logo="" group-title="24/7",24/7 El señor de los cielos
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/337
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE Agallas, el perro cobarde" tvg-logo="" group-title="24/7",24/7  CORAJE Agallas, el perro cobarde
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/338
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: Miami" tvg-logo="" group-title="24/7",24/7 CSI: Miami
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/339
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="" group-title="24/7",24/7  CUENTRO GREEM
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/340
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/341
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/342
+#EXTINF:-1 tvg-id="" tvg-name="24/7 shera" tvg-logo="" group-title="24/7",24/7 shera
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/343
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/344
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball 1984" tvg-logo="" group-title="24/7",24/7  Dragon Ball 1984
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/345
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT 1996" tvg-logo="" group-title="24/7",24/7 Dragon Ball GT 1996
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/346
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z 1989" tvg-logo="" group-title="24/7",24/7 Dragon Ball Z 1989
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/347
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/348
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Escobar: el patrón del mal" tvg-logo="" group-title="24/7",24/7 Escobar: el patrón del mal
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/349
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS; ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS; ESTRENOS 2018
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/350
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama 1999" tvg-logo="" group-title="24/7",24/7 Futurama 1999
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/351
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos" tvg-logo="" group-title="24/7",24/7 Juego de tronos
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/352
+#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/354
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="" group-title="24/7",24/7 Los locos Addams
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/355
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster 1964" tvg-logo="" group-title="24/7",24/7 La Familia Monster 1964
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/356
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Luis Miguel, la serie 2018" tvg-logo="" group-title="24/7",24/7 Luis Miguel, la serie 2018
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/357
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/358
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los años maravillosos 1988" tvg-logo="" group-title="24/7",24/7 Los años maravillosos 1988
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/359
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/360
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/361
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro 1995" tvg-logo="" group-title="24/7",24/7 Pinky y Cerebro 1995
+http://iptvactivador.online:25461/listaiptvzxtream/xtreamtv/362
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokémon" tvg-logo="" group-title="24/7",24/7 Pokémon
+
+
